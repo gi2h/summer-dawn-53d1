@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "summer-dawn-53d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "37bae539-4fec-4d31-b474-e340b1a7749b",
+      "database_name": "misty-sun-a181-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
